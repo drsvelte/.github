@@ -10,4 +10,8 @@ drsvelte.com is the front facing site for all drsvelte.com projects. Visit [http
 
 drsvelte.dev is the back end site for drsvelte.com running Drupal.
 
+## rockyno.de
+
+rockyno.de are the nodes where all drsvelte projects will hosted. The first rockyno.de is located in Seattle ([sea.rockyno.de](https://sea.rockyno.de). The second node will be located in Miami, Florida, where it will be set up for a Peace Corps Jamaica VSSP project.
+
 # .github
