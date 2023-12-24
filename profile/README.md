@@ -8,4 +8,4 @@ drsvelte is short for drupal-sveltekit. The name was chosen in September, 2023, 
 
 ### License
 
-All 'public' repositories will follow the BSD 3-Clause License. Projects using [TailwindUI](https://tailwindui.com) components will have their repositories hidden for licensing purposes.  
+All 'public' repositories follow the BSD 3-Clause License. Projects using [TailwindUI](https://tailwindui.com) components have their repositories private for licensing purposes.  
