@@ -4,5 +4,4 @@
 
 ### Meaning of drsvelte
 
-I needed a quick name for a project I started last September, 2023. So I chose drsvelte as the shortened name for Drupal and SvelteKit. Svelte will be an important part of every project I work with.
-
+drsvelte is short for drupal-sveltekit. The name was chosen in September, 2023, during a project to integrated Decoupled Drupal with SvelteKit. All drsvelte projects will integrate Svelte with Drupal decoupled.
