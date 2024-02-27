@@ -1,0 +1,22 @@
+name: DCYF Tailwind
+type: theme
+'base theme': stable9
+description: 'Agency Drupal <a href="https://tailwindcss.com" title="Tailwind CSS" target="_blank" rel="noreferrer">Tailwind CSS</a> theme. The goal of this theme is to meet WCAG Level A and AA  accessibility compliance. <a href="https://storybook.js.org/" title="Storybook" target="_blank" rel="noreferrer">Storybook</a> and other Tailwind components are built in with this theme.'
+starterkit: true
+libraries:
+  - dcyf_tailwind/base
+  - dcyf_tailwind/messages
+  - dcyf_tailwind/main
+libraries-extend:
+  user/drupal.user:
+    - dcyf_tailwind/user
+  core/drupal.dropbutton:
+    - dcyf_tailwind/dropbutton
+  core/drupal.dialog:
+    - dcyf_tailwind/dialog
+  file/drupal.file:
+    - dcyf_tailwind/file
+  core/drupal.progress:
+    - dcyf_tailwind/progress
+core_version_requirement: ^10
+generator: 'starterkit_theme:10.2.3'

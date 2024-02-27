@@ -1,0 +1,32 @@
+{
+  "name": "drupal-tailwind",
+  "version": "1.0.0",
+  "description": "<img alt=\"Drupal Logo\" src=\"https://www.drupal.org/files/Wordmark_blue_RGB.png\" height=\"60px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt=\"Tailwind CSS Logo\" src=\"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg\" height=\"60px\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img alt=\"DDEV Logo\" src=\"https://raw.githubusercontent.com/ddev/ddev/20a58d492180f5c9a7b22767c8a15809de6a01b6/docs/content/developers/logos/SVG/Logo_w_text.svg\" height=\"60px\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/addon-essentials": "^7.6.17",
+    "@storybook/addon-links": "^7.6.17",
+    "@storybook/blocks": "^7.6.17",
+    "@storybook/server": "^7.6.17",
+    "@storybook/server-webpack5": "^7.6.17",
+    "autoprefixer": "^10.4.17",
+    "css-loader": "^6.10.0",
+    "mini-css-extract-plugin": "^2.8.1",
+    "postcss": "^8.4.35",
+    "postcss-loader": "^8.1.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "storybook": "^7.6.17",
+    "tailwindcss": "^3.4.1",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
+  }
+}
