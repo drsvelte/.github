@@ -21,8 +21,6 @@ Main GitHub Repository
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/shinkirin/image/upload/v1702688981/drsvelte/drseltedev-logo.webp" alt="drsvelte.dev logo" />
-
-  <img src="https://res.cloudinary.com/shinkirin/image/upload/v1702688981/drsvelte/drselte-logo.webp" alt="drsvelte.com logo" />
+  <a href="https://drsvelte.dev" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shinkirin/image/upload/v1702688981/drsvelte/drseltedev-logo.webp" alt="drsvelte.dev logo" /></a>
 </p>
 
