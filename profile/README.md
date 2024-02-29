@@ -10,10 +10,9 @@ I am one of those generalized IT guys focusing on full-stack web development and
 *   ✉️  You can contact me at [kevin@drsvelte.com](mailto:kevin@drsvelte.com)
 *   🧠  I'm learning Kubernetes.
 *   🤝  I'm open to collaborating on Tailwind Theme development with Drupal.
-*   ⚡  I am a master-level Olympic Lifter. I love to motorcycles.<a href="https://www.x.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/MatsunagaKevin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>
+*   ⚡  I am a master-level Olympic Lifter. I love to motorcycles.
 
+<a href="https://www.x.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MatsunagaKevin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
 ### Skills 
 <p align="left">
