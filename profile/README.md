@@ -7,7 +7,6 @@ Designing Drupal themes with Tailwind CSS.
 I am one of those generalized IT guys focusing on full-stack web development and DevOps (system administration and container management). I used to develop with WordPress, but have since focused on Drupal and Directus. My favorite frameworks are Astro and SvelteKit. I love designing components with Tailwind CSS.
 
 *   🌍  I'm based in Washington State.
-*   🖥️  See my portfolio at [Development Site](http://drsvelte.dev)
 *   ✉️  You can contact me at [kevin@drsvelte.com](mailto:kevin@drsvelte.com)
 *   🚀  I'm currently working on [drsvelte Drupal Tailwind CSS theme.](http://drsvelte.dev)
 *   🧠  I'm learning Kubernetes.
