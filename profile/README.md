@@ -20,6 +20,8 @@ Main GitHub Repository
   <a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 </p>
 
+========================================================================================================================================
+
 <p align="center">
   <a href="https://drsvelte.dev" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/shinkirin/image/upload/v1702688981/drsvelte/drseltedev-logo.webp" alt="drsvelte.dev logo" /></a>
 </p>
