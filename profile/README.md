@@ -9,7 +9,7 @@ Main GitHub Repository
 ### Decoupled Drupal integration with Astro and Sveltekit
 - Developed initial Astro project with Tailwind CSS that will be migrated to a decoupled Drupal environment.
   - Astro will be used for accessibility testing.
-- Desiging prototype SvelteKit prototype and website for future Japan-based startup.   
+- Designing prototype SvelteKit prototype and website for future Japan-based startup.   
 
 ### Skills 
 <p align="left">
