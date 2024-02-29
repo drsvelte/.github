@@ -1,15 +1,22 @@
-drsvelte Main GitHub Repository
+Main GitHub Repository
 ========================================================================================================================================
 
-Designing Drupal themes with Tailwind CSS.
--------------------------------------------------------------------------------------------------
+### Drupal Tailwind CSS theme development
+- Designing a Tailwind CSS Drupal theme for:
+  - a state government agency.
+  - Jamaican NGO as part of the US Peace Corps Virtual Service Pilot project. 
+
+### Decoupled Drupal integration with Astro and Sveltekit
+- Developed initial Astro project with Tailwind CSS that will be migrated to a decoupled Drupal environment.
+  - Astro will be used for accessibility testing.
+- Desiging prototype SvelteKit prototype and website for future Japan-based startup.   
 
 I am one of those generalized IT guys focusing on full-stack web development and DevOps (system administration and container management). I used to develop with WordPress, but have since focused on Drupal and Directus. My favorite frameworks are Astro and SvelteKit. I love designing components with Tailwind CSS.
 
-*   🌍  I'm based in Washington State.
-*   ✉️  You can contact me at [kevin@drsvelte.com](mailto:kevin@drsvelte.com)
-*   🧠  I'm learning Kubernetes.
-*   🤝  I'm open to collaborating on Tailwind Theme development with Drupal. 
+*   🌍  Virtually based in Washington State.
+*   ✉️  You can contact me at [kevin@drsvelte.com](mailto:kevin@drsvelte.com).
+*   🧠  Working to add Kubernetes into workflow.
+*   🤝  All projects will follow the BSD 3-Clause License.
 
 <a href="https://www.x.com/MatsunagaKevin" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MatsunagaKevin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
 
