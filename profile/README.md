@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Matsunaga.
 ========================================================================================================================================
 
-Designing Drupal themes with Tailwind CSS. Integrating decoupled Drupal with Astro and SvelteKit.
+Designing Drupal themes with Tailwind CSS.
 -------------------------------------------------------------------------------------------------
 
 I am one of those generalized IT guys focusing on full-stack web development and DevOps (system administration and container management). I used to develop with WordPress, but have since focused on Drupal and Directus. My favorite frameworks are Astro and SvelteKit. I love designing components with Tailwind CSS.
